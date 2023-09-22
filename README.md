@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is Spring boor maven project
 Tech:
     Gradle
